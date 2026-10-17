@@ -5,10 +5,10 @@ permalink: /privacy/
 
 # Lowtrace privacy policy (iPhone and iPad)
 
-_Last updated: 2026-10-16_
+_Last updated: 2026-10-17_
 
-Lowtrace is an ad blocker for Safari on iPhone and iPad. It has no account, no analytics
-and no server.
+Lowtrace is an ad blocker for Safari on iPhone and iPad, published by Itathya technologies
+LLP ("the developer"). It has no account, no analytics and no server.
 
 ## What Lowtrace collects
 
@@ -59,4 +59,4 @@ If this policy changes, the new version will be published at this address with a
 
 ## Contact
 
-Questions: [open an issue on GitHub](https://github.com/chethan3040/lowtrace-privacy/issues).
+Questions: support@itathya.com

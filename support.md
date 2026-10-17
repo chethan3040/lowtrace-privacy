@@ -5,7 +5,7 @@ permalink: /support/
 
 # Lowtrace support
 
-**Contact:** [open an issue on GitHub](https://github.com/chethan3040/lowtrace-privacy/issues). We usually reply within 2 working days.
+**Contact:** support@itathya.com. We usually reply within 2 working days.
 
 ## Turn Lowtrace on
 
@@ -18,7 +18,7 @@ permalink: /support/
 
 - Check that every Lowtrace blocker is on (see above), then reload the page.
 - Check that the site isn't in Lowtrace > **Allowed Sites**.
-- Some ads can't be blocked by any Safari blocker. Send us the page address and we'll
+- Some ads can't be blocked by any Safari blocker. Email us the page address and we'll
   look at it.
 
 ## A site looks broken
