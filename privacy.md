@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Lowtrace privacy policy (iPhone and iPad)
 
-_Last updated: 2026-10-17_
+_Last updated: 2026-10-18_
 
 Lowtrace is an ad blocker for Safari on iPhone and iPad, published by Itathya technologies
 LLP ("the developer"). It has no account, no analytics and no server.
@@ -27,16 +27,15 @@ site name (for example `example.com`) in your allowlist, on your device.
 ## What stays on your device
 
 - **Your settings:** your allowlist (the site names where you allowed ads, added in the app
-  or with Allow Ads on This Site) and whether Lowtrace Plus is unlocked. They are stored on your device, in storage shared only between the Lowtrace app
-  and its own Safari extensions. They are not sent anywhere.
+  or with Allow Ads on This Site). It is stored on your device, in storage shared only
+  between the Lowtrace app and its own Safari extensions. It is not sent anywhere.
 - **The blocking rules** Lowtrace gives Safari.
 
-## Purchases
+## Purchase
 
-Lowtrace Plus is an in-app purchase. Payment is handled entirely by Apple under Apple's
-privacy policy (https://www.apple.com/legal/privacy/). Lowtrace only asks the App Store
-whether the purchase is active on your Apple account, to switch Plus on or off. The
-developer never sees your payment details or Apple ID.
+You buy Lowtrace on the App Store. Payment is handled entirely by Apple under Apple's
+privacy policy (https://www.apple.com/legal/privacy/). Lowtrace and the developer never
+see your payment details or your Apple Account.
 
 ## Network requests
 

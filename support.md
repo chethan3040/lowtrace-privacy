@@ -29,12 +29,14 @@ Sites**. Please tell us which site, so we can fix the filters.
 
 ## Ads in YouTube, Instagram, games or other apps
 
-iOS doesn't let any app block ads inside other apps, or in browsers other than Safari.
-Lowtrace works in Safari and in apps that open links with Safari's in-app viewer.
+Lowtrace works in Safari and in apps that open pages in Safari's in-app viewer. Like every
+Safari content blocker, it can't block ads inside other apps such as YouTube, Instagram or
+games, or in browsers other than Safari.
 
-## Lowtrace Plus
+## Your purchase
 
-- **One-time purchase**, no subscription. Shared with your family through Family Sharing.
-- **New phone or reinstall:** open Lowtrace > **Lowtrace Plus** and tap **Restore
-  Purchases**, signed in with the Apple Account you bought it with.
+- **One-time purchase:** no subscription and no in-app purchases. Every feature is included.
+- **New phone or reinstall:** download Lowtrace again from the App Store, signed in with the
+  Apple Account you bought it with. You don't pay again. Apple explains how:
+  https://support.apple.com/102417
 - **Refunds** are handled by Apple: https://reportaproblem.apple.com
